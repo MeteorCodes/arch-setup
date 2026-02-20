@@ -1,47 +1,47 @@
 # --- Standard Packages ---
-baobab                                   # Disk Usage Analyzer
-gdu                                      # tui disk usage manager
-btop                                     # great tui mission center / system info
-mission-center                           # System Monitor (Task Manager style)
-dosfstools                               # Tools for FAT12/16/32 filesystems
-exfat-utils                              # exFAT filesystem utilities
-gnome-disk-utility                       # Disk Management Utility (Disks)
-gnome-calendar                           # calendar
-gnome-clocks                             # clocks
-gnome-font-viewer                        # manage fonts easily
-fcitx5-mozc                              # Japanese Input Method
-rime-wubi                                # wubi input method
-firefox                                  # the best browser on linux
-transmission-gtk                         # BitTorrent Client
-localsend                                # send files to other devices
-nm-connection-editor                     # Advanced network editor
-gamescope                                # gaming compositor made by Valve
-heroic-games-launcher-bin                # Playing Epic games
-lutris                                   # Gaming outside steam
-steam                                    # Gaming Platform (Valve)
-protonplus                               # manage proton 
-mangohud                                 # OSD tool for gaming (like msi afterburner)
-lact                                     # GPU Control Tool (Overclocking/Fan)
-wine                                     # run windows exe 
-virt-manager                             # KVM qemu virtual machine
-lazyvim                                  # Great preset of neovim 
-neovim                                   # Advanced version of vim 
-mpv                                      # Minimalist High Performance Video Player
-obs-studio                               # OBS Studio (Streaming & Recording)
-upscaler                                 # image upscaler (make it more clear)
-yazi                                     # great tui file manager
-flatseal                                 # flatpak permission manager 
+baobab                                   # 磁盘使用分析器
+gdu                                      # 终端磁盘使用管理工具
+btop                                     # 优秀的终端系统监控/信息查看器
+mission-center                           # 系统监视器（任务管理器风格）
+dosfstools                               # FAT12/16/32 文件系统工具
+exfat-utils                              # exFAT 文件系统工具
+gnome-disk-utility                       # 磁盘管理工具（磁盘）
+gnome-calendar                           # 日历
+gnome-clocks                             # 时钟
+gnome-font-viewer                        # 简易字体管理器
+fcitx5-mozc                              # 日文输入法
+rime-wubi                                # 五笔输入法
+firefox                                  # Linux 上最好的浏览器
+transmission-gtk                         # BT 下载客户端
+localsend                                # 设备间文件传输
+nm-connection-editor                     # 高级网络编辑器
+# gamescope                                # Valve 开发的游戏合成器
+# heroic-games-launcher-bin                # 运行 Epic 游戏
+# lutris                                   # Steam 之外的游戏管理器
+# steam                                    # 游戏平台（Valve）
+# protonplus                               # 管理 Proton 兼容层
+# mangohud                                 # 游戏显示监控工具（类似微星小飞机）
+lact                                     # GPU 控制工具（超频/风扇）
+# wine                                     # 运行 Windows 可执行程序
+# virt-manager                             # KVM qemu 虚拟机管理器
+lazyvim                                  # Neovim 优秀预设配置
+neovim                                   # Vim 高级版本
+mpv                                      # 极简高性能视频播放器
+obs-studio                               # OBS 工作室（直播/录制）
+upscaler                                 # 图片放大器（提升清晰度）
+yazi                                     # 优秀的终端文件管理器
+flatseal                                 # Flatpak 权限管理器
 
 # --- AUR Packages ---
-AUR:flclash-bin                          # Sometimes a detour is necessary to solve a problem
-AUR:linuxqq-appimage                     # Tencent QQ (AppImage)
-AUR:wechat-appimage                      # WeChat (AppImage)
-AUR:lsfg-vk-bin                          # yellow duck frame generator
-AUR:mangojuice-bin                       # GUI for mangohud                
-AUR:video-downloader                     # Download youtube or bilibili videos
-AUR:visual-studio-code-bin               # vscode 
+AUR:flclash-bin                          # 有时绕路才能解决问题
+# AUR:linuxqq-appimage                     # 腾讯 QQ（AppImage）
+# AUR:wechat-appimage                      # 微信（AppImage）
+# AUR:lsfg-vk-bin                          # 小黄鸭表情包生成器
+# AUR:mangojuice-bin                       # Mangohud 图形界面
+# AUR:video-downloader                     # 下载 YouTube 或 B 站视频
+AUR:visual-studio-code-bin               # 代码编辑器
 
 # --- Flatpak Packages ---       
-flatpak:com.github.wwmm.easyeffects      # Audio Effects for PipeWire 
-flatpak:io.github.fabrialberio.pinapp    # PinApp (modify .desktop files)
-flatpak:it.mijorus.gearlever             # AppImage Manager
+# flatpak:com.github.wwmm.easyeffects      # PipeWire 音频效果器
+flatpak:io.github.fabrialberio.pinapp    # 快捷方式管理（修改桌面文件）
+flatpak:it.mijorus.gearlever             # AppImage 管理器
